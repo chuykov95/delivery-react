@@ -1,0 +1,19 @@
+{
+  "name": "delivery-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuykov95/delivery-react.git"
+  },
+  "author": "chuykov95@mail.ru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuykov95/delivery-react/issues"
+  },
+  "homepage": "https://github.com/chuykov95/delivery-react#readme"
+}
